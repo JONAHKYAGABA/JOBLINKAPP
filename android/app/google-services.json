@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "339630377691",
+    "firebase_url": "https://joblink-c396b-default-rtdb.firebaseio.com",
+    "project_id": "joblink-c396b",
+    "storage_bucket": "joblink-c396b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339630377691:android:c0016a9117353a0d781afe",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339630377691-nvs473b9208vve67q2af4ckas54ol5u4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0FYlJ2msJ-MmxOFZjpKwvnJKJOwa80aM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "339630377691-nvs473b9208vve67q2af4ckas54ol5u4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339630377691:android:26b5690a6dc4b4a3781afe",
+        "android_client_info": {
+          "package_name": "com.example.joblink"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339630377691-nvs473b9208vve67q2af4ckas54ol5u4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0FYlJ2msJ-MmxOFZjpKwvnJKJOwa80aM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "339630377691-nvs473b9208vve67q2af4ckas54ol5u4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
